@@ -21,11 +21,11 @@ VeriAI helps users verify the credibility of information by combining large lang
 
 ## Tech Stack
 
-- Frontend:
-- Backend:
-- Database:
-- AI Models:
-- Deployment:
+- Frontend: Flutter
+- Backend: Flask   
+- ML models: HuggingFace hallucination models
+- LLM Models: OpenAI, Meta, Gemini
+- Deployment: Vercel
 
 ## Architecture
 
